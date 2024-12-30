@@ -21,4 +21,4 @@ This repository will be updated as new versions of Angular and .NET are released
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rakeshducs/MyDatingApp.git
+   git clone https://github.com/Rakeshducs/MyDatingApp.git
